@@ -1,0 +1,22 @@
+﻿  glad.c
+  main.cpp
+c:\users\smart computer\documents\opengl stuff\include\learnopengl\shader_s.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\smart computer\documents\opengl stuff\include\learnopengl\shader_s.h(51): warning C4101: 'success': unreferenced local variable
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(56): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(154): warning C4305: '-=': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(157): warning C4305: '=': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(162): warning C4305: '-=': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(169): warning C4305: '+=': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(174): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(176): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(184): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(186): warning C4305: '=': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(187): warning C4305: '=': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(188): warning C4305: '=': truncation from 'double' to 'float'
+e:\4th_computer\graphics\lab\labs\7.project1\project1\main.cpp(189): warning C4305: '=': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> E:\4th_computer\graphics\lab\labs\7.Project1\Debug\Project1.exe
+  Project1.vcxproj -> E:\4th_computer\graphics\lab\labs\7.Project1\Debug\Project1.pdb (Partial PDB)
